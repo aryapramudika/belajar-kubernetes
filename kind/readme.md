@@ -669,7 +669,6 @@ Akses dari browser
 ![Pengujian Ingress](pengujian-ingress.png)
 
 
+## Sumber & Referensi
 
-
-
-
+* [Dokumentasi Resmi Kind](https://kind.sigs.k8s.io/)
