@@ -536,7 +536,7 @@ Output:
 
 Contoh output diatas berarti range IP untuk metallbnya yaitu 172.18.0.0/16. Jika bingung mau alokasiin IP nya bisa pakai [IP Calculator](https://jodies.de/ipcalc)
 
-Apply manifest metallb
+Apply manifest [metallb](metallb-conf.yml)
 
 ```
 kubectl apply -f metallb-conf.yml
