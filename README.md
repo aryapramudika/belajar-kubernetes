@@ -1,2 +1,3 @@
-# belajar-kubernetes
-Belajar Kubernetes
+# Belajar Kubernetes
+
+Berisi catatan belajar kubernetes
